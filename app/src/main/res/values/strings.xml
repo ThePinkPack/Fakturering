@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PinkPack</string>
+    <string name="title_customer">Kunder</string>
+    <string name="title_invoice">Fakturor</string>
+    <string name="title_statistics">Statistik</string>
+    <string name="submit">submit</string>
+
+    <string name="first_name">Förnamn</string>
+    <string name="sur_name">Efternamn</string>
+    <string name="pet_name">Hundens namn</string>
+    <string name="email">E-mail</string>
+    <string name="price">Pris</string>
+    <string name="invoice_number">FakturaNr</string>
+    <string name="number_of_days">Antal dagar</string>
+    <string name="type">Typ</string>
+
+    <string-array name="type_array">
+        <item>Heltid</item>
+        <item>Deltid (3 dagar)</item>
+        <item>Deltid (2 dagar)</item>
+        <item>Strödagar</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

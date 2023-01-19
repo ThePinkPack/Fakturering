@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1019727996035",
+    "project_id": "thepinkpack-79b45",
+    "storage_bucket": "thepinkpack-79b45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019727996035:android:d18edf3a7343e671f567b6",
+        "android_client_info": {
+          "package_name": "com.example.pinkpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019727996035-5siu5cj16h5kunf9hv2nfbt19tlaj0m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvuMT0aU8bfKFW2d6RHF7yOZRbaj2TD-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019727996035-5siu5cj16h5kunf9hv2nfbt19tlaj0m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019727996035:android:be44567e17b88d42f567b6",
+        "android_client_info": {
+          "package_name": "com.example.thepinkpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019727996035-5siu5cj16h5kunf9hv2nfbt19tlaj0m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvuMT0aU8bfKFW2d6RHF7yOZRbaj2TD-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019727996035-5siu5cj16h5kunf9hv2nfbt19tlaj0m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
